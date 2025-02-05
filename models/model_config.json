@@ -1,0 +1,12 @@
+{
+    "model": {
+        "type": "LinearRegression",
+        "hyperparameters": {
+            "fit_intercept": true,
+            "normalize": false
+        }
+    },
+    "preprocessing": {
+        "scaler": "StandardScaler"
+    }
+}

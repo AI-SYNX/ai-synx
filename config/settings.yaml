@@ -1,0 +1,16 @@
+training:
+  batch_size: 32
+  epochs: 100
+  learning_rate: 0.01
+
+model:
+  type: "LinearRegression"
+  parameters:
+    fit_intercept: true
+    normalize: false
+
+logging:
+  log_level: "INFO"
+  log_to_file: true
+  error_log_path: "logs/error.log"
+  training_log_path: "logs/training.log"
