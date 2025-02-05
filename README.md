@@ -81,6 +81,4 @@ For more information, reach out to us at:
 - Email: support@synxai.com
 - Twitter: [@ai_synx](https://twitter.com/ai_synx)
 
-```
 
-Feel free to adjust the sections as needed, depending on your specific project details!
