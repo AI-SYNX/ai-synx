@@ -1,6 +1,3 @@
-Here's a sample `README.md` for SYNX AI in GitHub style:
-
-```markdown
 # SYNX AI: Synthetic Intelligence
 
 Welcome to SYNX AI, an innovative and unique AI model designed to mimic human-like reasoning and decision-making. SYNX harnesses the power of artificial intelligence to create truly synthetic, yet human-centric solutions, capable of running complex reasoning and executing tasks autonomously.
