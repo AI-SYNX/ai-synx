@@ -2,6 +2,8 @@
 
 Welcome to SYNX AI, an innovative and unique AI model designed to mimic human-like reasoning and decision-making. SYNX harnesses the power of artificial intelligence to create truly synthetic, yet human-centric solutions, capable of running complex reasoning and executing tasks autonomously.
 
+CA :
+
 ![SYNX AI](https://github.com/user-attachments/assets/21c2c7bd-69c5-4227-a2c3-ba2df116c953)
 
 ## Overview
